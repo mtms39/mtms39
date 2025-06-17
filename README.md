@@ -1,7 +1,4 @@
-Hi, I’m a undergrad student at Federal University of Minas Gerais who is driven by learning and challenges.
-I'm studying Physics on college and cybersecurity by my self.
-
-Looking for a carreer on cybersecurity. DCPT cert in progress.
+Cybersec and dev enthusiast.
 
 If you want to find me, you can contact me through my e-mail: marcotuliomelosoares@gmail.com.
  
